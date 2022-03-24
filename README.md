@@ -1,7 +1,6 @@
 ## About Me
 
 - Hi, I'm Eduardo B. I'm very enthusiast of functional programming languages, especially haskell.
-- I’m currently learning some cool technologies (Rust and OCaml);
 - ⚛️ Skills: React, React Native, Next, Typescript, Haskell, OCaml, Rust and Solana Smart Contracts.
 - 🔭 Working on: Web development & Blockchain.
 - 🌱 Currently learning: Functional languages like Haskell and OCaml.
