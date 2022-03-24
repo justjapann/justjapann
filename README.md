@@ -1,16 +1,15 @@
-### Hi there 👋
+## About Me
 
-<!--
-**Japanmaluco/Japanmaluco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Hi, I'm Eduardo B. I'm very enthusiast of functional programming languages, especially haskell.
+- I’m currently learning some cool technologies (Rust and OCaml);
+- ⚛️ Skills: React, React Native, Next, Typescript, Haskell, OCaml, Rust and Solana Smart Contracts.
+- 🔭 Working on: Web development & Blockchain.
+- 🌱 Currently learning: Functional languages like Haskell and OCaml.
+- 📫 Reach me: Japa#3988 in [Discord](https://discord.com/new)
 
-Here are some ideas to get you started:
+- Languages: Portuguese and English
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Reach me at:
+
+- E-mail: <japanmaluco@gmail.com>
+- Twitter: [@justjapann](https://twitter.com/justjapann)
